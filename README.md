@@ -1,1 +1,1 @@
-"# leaf-disease-detection-using-deep-learning" 
+# leaf-disease-detection-using-deep-learning
